@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903789400413",
+    "firebase_url": "https://weatherpush-a2057.firebaseio.com",
+    "project_id": "weatherpush-a2057",
+    "storage_bucket": "weatherpush-a2057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903789400413:android:83d58cf7ce878f36e218b4",
+        "android_client_info": {
+          "package_name": "com.jss.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903789400413-s13isga4u4bselbnrqv0pg16q1bs5hm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKVdITK17nCjkXOdnkeJvUa1ewZSVQvE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903789400413-s13isga4u4bselbnrqv0pg16q1bs5hm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
